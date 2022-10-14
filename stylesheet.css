@@ -7,14 +7,15 @@ color: darkred;
 font-family: Helvetica;
 }
 
-#idrequirement{
-font-family: sans-serif;
-color: #42e3f5
-}
-
 .vibzsunrise{
     padding: .5rem;
     margin: 30px;
     border: 20px ridge blue;
     background-color: green;
 }
+
+#idrequirement{
+font-family: sans-serif;
+color: #42e3f5
+}
+
